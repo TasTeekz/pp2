@@ -1,4 +1,4 @@
-The quick brown fox jumps over the lazy dog. 
+The quick brown fox jumps over the lazy dog.
 Email: example.user123@mail.com, another.email@domain.org
 Phone: +1-800-555-0199, (123) 456-7890
 Address: 1234 Elm Street, Apt 567, Springfield, IL 62704
